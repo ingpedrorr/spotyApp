@@ -1,6 +1,6 @@
 # Spotiapp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.3.
+This project has been created for those who loves music. Remember create and account on https://developer.spotify.com/my-applications/ for proper functionality
 
 ## Development server
 
